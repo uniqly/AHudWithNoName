@@ -63,29 +63,11 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
+	
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"99999"
-		"ypos"			"99999"
-		"zpos"			"5"
-		"wide"			"20"
-		"wide_minmode"	"14"
-		"tall"			"10"
-		"tall_minmode"	"14"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"SpectatorVerySmall"
-		"fgcolor"		"TanDark"
-	}
-	
-	"PlayerStatusHealthValue2"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue2"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
@@ -98,7 +80,7 @@
 		"font"			"Archive20"
 		"fgcolor"		"white"
 	}
-	"PlayerStatusHealthValue2Shadow"
+	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue2Shadow"

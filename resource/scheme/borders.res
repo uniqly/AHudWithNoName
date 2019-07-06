@@ -2705,6 +2705,85 @@ Scheme
 			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"8"		
 		}
+		
+		MaterialFill
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"HUD_MBlack"
+			
+			"image"					"replay/thumbnails/MaterialPanel"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"		
+		}
+		
+		TeamRedFill
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"HUD_RedTeam"
+			
+			"image"					"replay/thumbnails/MaterialPanel"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"		
+		}
+		
+		
+		TeamBlueFill
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"HUD_BlueTeam"
+			
+			"image"					"replay/thumbnails/MaterialPanel"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"		
+		}
+		
+		Test1
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"HUD_MBlack"
+			
+			"image"					"replay/thumbnails/MaterialPanel"
+			"src_corner_height"		"0"				// pixels inside the image
+			"src_corner_width"		"0"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"		
+		}
+		
+		Test2
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"HUD_MBlack"
+			
+			"image"					"replay/thumbnails/MaterialPanel"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"		
+		}
+		
+		Test3
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"HUD_MBlack"
+			
+			"image"					"replay/thumbnails/MaterialPanel"
+			"src_corner_height"		"0"				// pixels inside the image
+			"src_corner_width"		"0"
+			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"		
+		}
 	
 	}
 }

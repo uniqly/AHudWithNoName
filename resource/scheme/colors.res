@@ -81,9 +81,9 @@ Scheme
 		// training
 		"HudTrainingHint"			"212 160 23 255"
 		
-		"TanDark"				"117 107 94 255"
-		"TanLight"				"235 226 202 255"
-		"TanDarker"				"46 43 42 255"
+		"TanDark"				"235 235 235 255"
+		"TanLight"				"235 235 235 255"
+		"TanDarker"				"235 235 235 255"
 		
 		"StoreDarkTan"			"131 121 104 255"
 		"StoreGreen"			"76 107 34 255"
@@ -199,6 +199,8 @@ Scheme
 		///////////////////// CUSTOM COLOURS ////////////////////////
 		//MainColour
 		"Theme"						"54 255 124 255"
+		"HUD_RedTeam"				"213 0 0 255"
+		"HUD_BlueTeam"				"41 98 255 255"
 		
 		// Button Text Colors
 		"ButtonTextColor"			"235 235 235 255" // Default Button Text Color

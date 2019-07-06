@@ -238,7 +238,7 @@
 		"xpos"		"c-126"
 		"ypos"		"c40"
 		"wide"	 	"252"
-		"tall"	 	"20"
+		"tall"	 	"30"
 		"priority"	"40"
 
 		if_vr
@@ -466,15 +466,15 @@
 		"IconScale"	  "0.35"
 		"LineHeight"	  "14"
 		"LineSpacing"	  "1"
-		"CornerRadius"	  "2"
+		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"CenturyGothic12"
 		
-		"TeamBlue"		"HUDBlueTeamSolid"
-		"TeamRed"		"HUDRedTeamSolid"
-		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"TeamBlue"		"HUD_BlueTeam"
+		"TeamRed"		"HUD_RedTeam"
+		"IconColor"		"white"
+		"LocalPlayerColor"	"HUD_Black"
 
 		"BaseBackgroundColor"	"HUD_MBlack"
 		"LocalBackgroundColor"	"white"
